@@ -1,2 +1,2 @@
 # RF-PowerAmplifier-DCDC
-射频功放的电源
+IMS POWER AMP的电源
