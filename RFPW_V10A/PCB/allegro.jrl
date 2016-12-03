@@ -1,0 +1,47 @@
+\t (00:00:01) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
+\t (00:00:01)     Journal start - Sat Dec 03 10:41:15 2016
+\t (00:00:01)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=6428 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\GitHub\RF-PowerAmplifier-DCDC\RFPW_V10A\PCB\RFPW_V10A.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/GitHub/RF-PowerAmplifier-DCDC/RFPW_V10A/PCB/RFPW_V10A.brd
+\i (00:00:05) trapsize 12695
+\i (00:00:05) trapsize 12429
+\i (00:00:05) trapsize 12741
+\i (00:00:05) trapsize 13021
+\i (00:00:05) trapsize 13021
+\i (00:00:06) generaledit 
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 37.7417 18.8542
+\i (00:00:06) trapsize 6510
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 20.0334 22.1094
+\i (00:00:07) trapsize 3255
+\t (00:00:07) >>EDA365 Skill V2.3 º”‘ÿ≥…π¶!
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 19.9683 21.9141
+\i (00:00:08) trapsize 1628
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 38.8486 16.8034
+\i (00:00:09) trapsize 814
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 38.7672 16.9011
+\i (00:00:10) trapsize 407
+\i (00:00:11) setwindow form.find
+\i (00:00:11) FORM find all_off  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) move #ÁßªÂä®Áâ©‰Ωì 
+\t (00:00:23) Select element(s) to move.
+\i (00:00:26) prepopup 41.9330 19.6680
+\i (00:00:27) done 
+\i (00:00:27) generaledit 
+\i (00:07:59) exit 
+\e (00:07:59) Do you want to save the changes you made to RFPW_V10A.brd?
+\i (00:08:00) fillin no 
+\t (00:08:00)     Journal end - Sat Dec 03 10:49:14 2016

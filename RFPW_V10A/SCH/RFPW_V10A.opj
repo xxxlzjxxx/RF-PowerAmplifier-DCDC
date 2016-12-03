@@ -174,11 +174,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\rfpw_v10a.dsn")
-      (Path "Design Resources" ".\rfpw_v10a.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "E:\GitHub\RF-PowerAmplifier-DCDC\RFPW_V10A\SCH\rfpw_v10a.dsn")
+      (Path "Design Resources"
+         "E:\GitHub\RF-PowerAmplifier-DCDC\RFPW_V10A\SCH\rfpw_v10a.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\rfpw_v10a.dsn"))
+      (Select "Design Resources"
+         "E:\GitHub\RF-PowerAmplifier-DCDC\RFPW_V10A\SCH\rfpw_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -189,8 +193,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1190 52 547")
-        (Scroll "2207 802")
-        (Zoom "200")
+        (Scroll "0 0")
+        (Zoom "68")
         (Occurrence "/"))
       (Path "E:\GITHUB\RF-POWERAMPLIFIER-DCDC\RFPW_V10A\SCH\RFPW_V10A.DSN")
       (Schematic "SCHEMATIC1")
